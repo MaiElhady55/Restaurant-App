@@ -21,6 +21,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ![lunch_category_screen](https://user-images.githubusercontent.com/122188401/229930357-cab42605-c3fb-4a7b-ab12-1032b80231df.png)
 
+![meal_details_screen](https://user-images.githubusercontent.com/122188401/229932089-790d3bbc-8861-4af5-97d5-870dc0b61993.png)
+
 ![manage_meals_screen](https://user-images.githubusercontent.com/122188401/229930545-77774af6-ba1c-402b-bdd8-87cf0f25d2d0.png)
 
 ![manage_meals_cat_screen](https://user-images.githubusercontent.com/122188401/229930614-67586d29-e05c-41c0-958e-0716c6283e4f.png)
